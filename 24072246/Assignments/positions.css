@@ -1,0 +1,40 @@
+.position{
+    height: 500px;
+    width: 600px;
+    position: relative;
+}
+.position img{
+    width: 600px;
+    height: 500px;
+    position: relative;
+}
+.middle{
+    position: absolute;
+    left:40%;
+    top: 53%;
+    background-color: orangered;
+}
+.positionspan1{
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    background-color:blanchedalmond;
+}
+.positionspan2{
+    position: absolute;
+    top: 1px;
+    right: 1px;
+    background-color:blanchedalmond;
+}
+.positionspan3{
+    position: absolute;
+    bottom: 1px;
+    left: 1px;
+    background-color:blanchedalmond;
+}
+.positionspan4{
+    position: absolute;
+    bottom: 1px;
+    right: 1px;
+    background-color:blanchedalmond;
+}
